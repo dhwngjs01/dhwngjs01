@@ -1,13 +1,7 @@
 <p align="center">
-    <a href="mailto:dhwngjs01@naver.com" target="_blank">
-        <img src="https://img.shields.io/badge/dhwngjs01@naver.com-03C75A?style=flat-square&logo=naver&logoColor=ffffff" height="30px" />
-    </a>
-    <a href="https://dhwngjs01.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/My_Gitblog-181717?style=flat-square&logo=github&logoColor=ffffff" height="30px" />
-    </a>
-    <a href="https://dhwngjs01.github.io/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/My_Portfolio-0d6dfd?style=flat-square&logo=airplayvideo&logoColor=ffffff" height="30px" />
-    </a>
+    <a href="mailto:dhwngjs01@naver.com" target="_blank"><img src="https://img.shields.io/badge/dhwngjs01@naver.com-03C75A?style=flat-square&logo=naver&logoColor=ffffff" height="30px" /></a>
+    <a href="https://dhwngjs01.github.io" target="_blank"><img src="https://img.shields.io/badge/My_Gitblog-181717?style=flat-square&logo=github&logoColor=ffffff" height="30px" /></a>
+    <a href="https://dhwngjs01.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-0d6dfd?style=flat-square&logo=airplayvideo&logoColor=ffffff" height="30px" /></a>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dhwngjs01&show_icons=true&theme=react" height="170px" />
@@ -26,7 +20,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff" height="30px" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000" height="30px" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" height="30px" />
-
 </p>
 
 ### Back-end
