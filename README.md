@@ -1,25 +1,17 @@
 <p align="center">
-    <p>
-        <a href="mailto:dhwngjs01@naver.com" target="_blank">
-            <img src="https://img.shields.io/badge/dhwngjs01@naver.com-03C75A?style=flat-square&logo=naver&logoColor=ffffff" height=50px/>
-        </a>
-    </p>
-    <p>
-        <a href="https://dhwngjs01.github.io" target="_blank">
-            <img src="https://img.shields.io/badge/My_Gitblog-181717?style=flat-square&logo=github&logoColor=ffffff" height=50px/>
-        </a>
-    </p>
-    <p>
-        <a href="https://dhwngjs01.github.io/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/My_Portfolio-0d6dfd?style=flat-square&logo=airplayvideo&logoColor=ffffff" height=50px/>
-        </a>
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=dhwngjs01&show_icons=true&theme=react" />
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwngjs01&layout=compact&theme=react"/>
-    </p>
+    <a href="mailto:dhwngjs01@naver.com" target="_blank">
+        <img src="https://img.shields.io/badge/dhwngjs01@naver.com-03C75A?style=flat-square&logo=naver&logoColor=ffffff" height=30px/>
+    </a>
+    <a href="https://dhwngjs01.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/My_Gitblog-181717?style=flat-square&logo=github&logoColor=ffffff" height=30px/>
+    </a>
+    <a href="https://dhwngjs01.github.io/portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/My_Portfolio-0d6dfd?style=flat-square&logo=airplayvideo&logoColor=ffffff" height=30px/>
+    </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhwngjs01&show_icons=true&theme=react" height=200px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwngjs01&layout=compact&theme=react" height=200px/>
 </p>
 
 ## 🛠 Tech Stack 🛠
@@ -53,7 +45,7 @@
     
 </p>
 
-### Collaboration
+### Version Control
 
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff" height=30px/>
